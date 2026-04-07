@@ -1,8 +1,8 @@
 aid: nextdata
 name: Nextdata
 description: >-
-  Finally, a unified and automated data management approach for unstructured and
-  structured data that works for AI (and everything else.) 
+  Finally, a unified and automated data management approach for unstructured and structured
+  data that works for AI (and everything else.).
 type: Index
 position: Consumer
 access: 3rd-Party
@@ -18,8 +18,8 @@ apis:
   - aid: nextdata:nextdata
     name: Nextdata
     description: >-
-      Finally, a unified and automated data management approach for unstructured
-      and structured data that works for AI (and everything else.) 
+      Finally, a unified and automated data management approach for unstructured and
+      structured data that works for AI (and everything else.).
     humanURL: ' https://www.nextdata.com/'
     tags:
       - API
