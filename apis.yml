@@ -41,6 +41,8 @@ apis:
       - type: ContactSales
         url: https://www.nextdata.com/contact
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/nextdata-technologies
   - type: Website
     name: Nextdata Website
     description: Marketing and product site for Nextdata.
