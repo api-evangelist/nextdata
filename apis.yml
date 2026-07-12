@@ -41,6 +41,8 @@ apis:
       - type: ContactSales
         url: https://www.nextdata.com/contact
 common:
+  - type: DomainSecurity
+    url: security/nextdata-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/nextdata-technologies
   - type: Website
