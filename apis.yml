@@ -31,7 +31,7 @@ created: '2025-08-19'
 modified: '2026-04-28'
 url: >-
   https://raw.githubusercontent.com/api-evangelist/nextdata/refs/heads/main/apis.yml
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis:
   - aid: nextdata:nextdata
     name: Nextdata
