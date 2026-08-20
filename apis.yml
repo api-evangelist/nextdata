@@ -24,6 +24,12 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/nextdata.p
 tags:
   - Data
   - Data Mesh
+  - Artificial Intelligence
+  - Data Management
+  - Data Products
+tags_raw:
+  - Data
+  - Data Mesh
   - AI
   - Data Management
   - Data Products
@@ -41,6 +47,11 @@ apis:
       governance, and discovery primitives.
     humanURL: https://www.nextdata.com/
     tags:
+      - Data
+      - Data Mesh
+      - Artificial Intelligence
+      - Data Products
+    tags_raw:
       - Data
       - Data Mesh
       - AI
